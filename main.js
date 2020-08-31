@@ -15,5 +15,5 @@ document.querySelector('.menu-btn').addEventListener('click', () => {
 })
 
 ScrollReveal().reveal('.showcase');
-ScrollReveal().reveal('.pics-grid', {delay: 800});
+ScrollReveal().reveal('.grid-container', {delay: 800});
 
